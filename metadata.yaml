@@ -1,10 +1,16 @@
 _repo: Recollections-of-Thomas-D-Duncan-a-Confederate-Soldier_49495
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49495-h/images/cover.jpg
 creator:
   author:
     agent_name: Duncan, Thomas D.
     gutenberg_agent_id: '45366'
     url: http://www.gutenberg.org/2009/agents/45366
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49495#Recollections-of-Thomas-D-Duncan-a-Confederate-Soldier
 gutenberg_issued: '2015-07-20'
 gutenberg_type: Text
 identifiers:
